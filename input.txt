@@ -1,0 +1,4 @@
+www.ecc.ncsu.edu;152.1.1.10
+www4.ece.ncsu.edu;152.1.2.100
+www6.ncsu.edu;152.100.1.193
+www.csc.ncsu.edu;121.1.2.345
