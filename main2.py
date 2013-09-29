@@ -1,7 +1,5 @@
 #!/usr/bin/python
 import trie
-import sys
-import trie
 
 symbtoip = trie.Trie()			#trie to store symbolic address to ip mapping
 iptomac = trie.Trie()			#trie to store ip to mac address mapping
