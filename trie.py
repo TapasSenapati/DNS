@@ -57,4 +57,4 @@ class Trie:
             else:
                 yield node
                 
-mytrie = Trie()
+
