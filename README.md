@@ -1,5 +1,6 @@
-DNS
-===
+
+ADS Deliverable 1 implementation
+==========================================================================================================
 
 Implementation of dns table. Use terminal in linux or python command prompt in windows to run the python scripts.
 
@@ -20,3 +21,10 @@ python main2.py
 -----------------------------------------------------------------------------------------------------
 
 
+Team Members:
+
+1> Tapas Kumar Senapati - tksenapa
+
+2> Manoj Sudheendra - msudhee
+
+3> Aravind Thirthapura - asthirth
