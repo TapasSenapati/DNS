@@ -1,13 +1,22 @@
 DNS
 ===
 
-implementation of dns table
+Implementation of dns table. Use terminal in linux or python command prompt in windows to run the python scripts.
 
+** To run first program
 
-1> Input1.txt is sample input file for 1st program
-2> Input2.txt is sample input file for 2nd program
-
-To run first program
 python main1.py
 
-and to run second program python main2.py at terminal 
+** To run second program 
+
+python main2.py 
+
+** hashtabans1.py is an alternative implementation of ans1 for deliverable 1 using hash tables.
+
+** The input text files should be present in the same folder where the python scripts lie.
+
+** Program assumes a python version 2.7 to be installed in the system.
+
+-----------------------------------------------------------------------------------------------------
+
+
