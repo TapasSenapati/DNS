@@ -1,8 +1,9 @@
-
 ADS Deliverable 1 implementation
 ==========================================================================================================
 
-Implementation of dns table. Use terminal in linux or python command prompt in windows to run the python scripts.
+Implementation of dns table. Use terminal in linux or python command prompt in windows to run the python scripts. 
+
+Extract all the python scripts .py files to a single folder. Put all the input files in the same folder.
 
 ** To run first program
 
